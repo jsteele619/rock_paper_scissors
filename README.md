@@ -1,3 +1,3 @@
-## Welcome to my rock paper scissors game.
+# Welcome to my rock paper scissors game.
 
-Run rps.py !
+Run the file rps.py to play a game in your terminal!
